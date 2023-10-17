@@ -1,2 +1,2 @@
 print("hi")
-print("denis and ksusha")
+print("denis and ksusha0")
